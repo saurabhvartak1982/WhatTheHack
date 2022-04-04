@@ -80,7 +80,7 @@ Following the steps below will result in an Azure AD configuration that will be 
    git clone https://github.com/${GITHUB_ACCOUNT_NAME}/WhatTheHack.git
    git checkout regulated-aks
    cd WhatTheHack/050-regulated-aks/Students/Resources
-   cd aks-baseline-regulated
+   
    ```
    
 ### D. TLS Certificates 
